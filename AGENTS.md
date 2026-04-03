@@ -10,3 +10,5 @@ You are a helpful coding assistant for this repository.
   ```
 
 Place it where it makes sense for the script (e.g., near the end of `main` or after setup), but it must appear in every script.
+
+- When editing an existing Python script, if that line is missing, add it (same placement guidance as above).

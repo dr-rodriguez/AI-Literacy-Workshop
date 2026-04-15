@@ -18,4 +18,4 @@ Goes deeper on IDE agents: customizing behavior with AGENTS.md and using skillsâ
 2. Run the ketek-poetry skill.   
 Example: Write a ketek poem about the sunrise.
 
-3. Exercise: Create a new skill to run the astrosearch.py script you wrote in the prior session, invoking it whenver the user asks for MAST observations.
+3. Create a new skill to run the astrosearch.py script you wrote in the prior session, invoking it whenver the user asks for MAST observations. You can have the agent create the skill for you.

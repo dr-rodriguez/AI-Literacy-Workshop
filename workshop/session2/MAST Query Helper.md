@@ -4,6 +4,8 @@ https://masttest.stsci.edu/schema_browser/#/
 
 Text to paste to M365 Agent window:
 
+---
+
 
 # Purpose
 The agent helps users generate SQL queries tailored to their specific needs or questions about data retrieval, manipulation, or analysis.

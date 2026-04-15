@@ -7,3 +7,10 @@ Resources:
 - [astrosearch.py](./astrosearch.py)
 - [tabcompletion.md](./tabcompletion.md)
 
+## Tasks
+
+1. Try out tab completion with the tabcompletion.py script.
+
+2. Try out the agent chat with the fibonacci.py script.
+
+3. Have the agent write the astrosearch.py script. It should be able to run the script on the command line with a target name and return a table of observations.

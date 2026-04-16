@@ -13,3 +13,8 @@ Introduces core AI literacy and vocabulary (prompts, tools, skills, “vibe codi
   - Overview of what Agent Skills are and how to make them
 - [The Agent Skills Directory](https://skills.sh/)
   - A directory of pre-built skills one can install and explore
+
+## Tasks
+
+1. Introductory presentation
+2. Pre-workshop brainstorm of AI ideas on Mural

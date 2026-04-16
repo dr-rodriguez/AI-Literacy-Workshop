@@ -4,6 +4,8 @@ Introduces command-line AI workflows with copilot-cli and opencode paired with G
 
 ## Useful Links
 
+You may need to have Homebrew installed for easier installation of these. See the Self-Service app.
+
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli)
   - Command-line tool for interacting with GitHub Copilot
 - [About copilot-cli](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli)
@@ -24,3 +26,7 @@ Introduces command-line AI workflows with copilot-cli and opencode paired with G
  - /skills
  - /model
  - /usage
+
+4. Run headless: `copilot -p "hello"`
+
+If testing OpenCode, the concepts are similar but you need to select the provider (/connect)- such as Github copilot or Gitlab Duo.

@@ -1,89 +1,79 @@
 # AI-Literacy-Workshop
 A workshop to go over basic use of AI tools
 
-# Agenda
+# Requirements
 
-## session 1 (1hr)
+- VSCode - https://code.visualstudio.com/ 
+- Github Account - https://github.com/ 
+- Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments.
 
+Optional:
+- Homebrew (easier to install the CLI via Brew)
+  - Search Self-Service for Homebrew Self Install
+- Copilot CLI - https://github.com/features/copilot/cli
+- OpenCode - https://opencode.ai/
+
+# Agenda 
+
+## 9:15am - 9:30am: Session 0: Housekeeping (0.25 hr) - Jinmi
+- Review goals and agenda 
+- Requirements with time for install
+- Q & A
+
+## 9:30am - 10:00am: Session 1 (0.5 hr) - David
 - AI literacy and terminology
-  - introduction
-  - prompts, tools, skills, 
-  - vibe coding
-- Current State of AI
-  - Tools and examples of their types
-    - chatbots - 
-    - CLI tools -
-    - IDE tools -
-  - Go over again the current ST AI Policy table and which tools are allowed
-    - STScI allowed tools:
-    - other Microsoft suite app?
-- Anti-AI aspects (by Thomas)
+- Agent Examples
+- Go over again the current ST AI Policy table and which tools are allowed
+  - STScI allowed tools
+- Responsible use of AI
 
+## 10:00am - 10:30am: Brainstorm session 1 (0.5 hr including break 1)
+- Share thoughts of what to build with AI on Mural (to be reviewed in Session 6)
 
-BREAK1 (10 mins)
-
-## session 2:  Chatbots (30 min)
-
+## 10:30am - 11:30am: Session 2: Chatbots (1hr) - Jinmi
 - Chatbot Examples
-  - M365 copilot (private), Github copilot (open-source)
+  - M365 Copilot, Github Copilot - image generation, text generation, etc
   - Gitlab-Duo Web chatbot (private)
   - Other examples
-  - open models - installations  for  privacy
 - Good practices
-  - context prompting - video of experts
+  - context prompting
   - examples of bad or good prompts
   - custom agents
-- sandbox/exercise time
-  - exercise 1
-  - exercise 2
+- Exercise Session
 
-BREAK 2 - may not needed
+## 11:30am - 11:35am: BREAK 2 (5-10 mins)
 
-## session 3: IDE applications (1 hour)
-
+## 11:35am - 12:30pm: Session 3: IDE applications (1 hour) - Brian
 - Setup
-  - Github-Copilot (open-source)
-  - (if this works), GitLab Duo (private)
+  - Github-Copilot
 - Tab complete
   - Example: tab complete list of months, days
 - Agent chat
   - Break down different modes: ask, agent, plan
-  - Example: code up a fibonachi function
+  - Example: code up a fibonacci function
 - Exercise Session
-  - try out the three modes
-  - task1 - Ask the agent to code up a script to use astroquery to get Observations for some target
+  - Try out the three modes
+  - Ask the agent to code up a script to use astroquery to get Observations for some target
 
-BREAK 3 - Lunch (1 hr)
+## 12:30pm - 1:30pm: BREAK 3 - Lunch (1 hr)
 
-## session 4: IDE applications continued (1 hour)
-
-- Agent Customization (AGENTS.md) - Advanced
-  - Agent has some pre-existing customization
+## 1:30pm - 2:30pm: Session 4: IDE applications continued (1 hour) - David
+- Agent Customization (AGENTS.md)
 - Skills
-  - What is "skills" and What can you do with skills?
-  - Skill examples: https://skillsmp.com/
-  - Show how to create skills.md
-  - Preloaded examples: ketek-poetry
+  - What are “skills” and what can you do with them?
+  - Preloaded examples: write ketek poem
 - Exercise Session
   - Update agent customization
   - Run skills
   - Have the agent build a skill based on the script generated earlier
 
-BREAK 4 (10 mins)
+## 2:30pm - 2:40pm: BREAK 4 (10 mins)
 
-## session 5: CLI applications (30 min)
+## 2:40pm - 3:10pm: Session 5: CLI applications (30 min) - David
+- Copilot-CLI
+- OpenCode with Gitlab-Duo, Github-Copilot
+- Exercise Session
 
-- copilot-cli
-- opencode with gitlab-duo, github-copilot (open-source)
-- Exercise time: play time
-
-## session 6: (1 hour +  break + another 1 hr)
-
+## 3:10pm - 5:00pm: Session 6 (1 hour + break + another 1 hr) - All of Us
 - Brainstorm AI application ideas for MAST
-  - for developers
-  - for end users 
-
-BREAK 5 (10 min)
-
-- (stretch)Action items and planning for future AI application dev
-  - AI task force at MAST
+  - Review Mural ideas from start

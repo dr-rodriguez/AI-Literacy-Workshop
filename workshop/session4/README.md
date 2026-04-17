@@ -10,6 +10,8 @@ Goes deeper on IDE agents: customizing behavior with AGENTS.md and using skillsâ
   - Overview of what Agent Skills are and how to make them
 - [The Agent Skills Directory](https://skills.sh/)
   - A directory of pre-built skills one can install and explore
+- [David's Agentic Skills](https://grit.stsci.edu/drodriguez/agentic-skills)
+  - A handful of skills I've created/downloaded for things like Jira, Grit, Obsidian, etc.
 
 ## Tasks
 

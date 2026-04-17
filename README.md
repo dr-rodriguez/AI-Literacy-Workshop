@@ -5,9 +5,11 @@ A workshop to go over basic use of AI tools
 
 - VSCode - https://code.visualstudio.com/ 
 - Github Account - https://github.com/ 
-- Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments.
+- Github Copilot Chat Extension
+- Clone this repo to a folder on your machine
+- Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments (conda, mamba, uv).
 
-Optional:
+### Optional Installs:
 - Homebrew (easier to install the CLI via Brew)
   - Search Self-Service for Homebrew Self Install
 - Copilot CLI - https://github.com/features/copilot/cli

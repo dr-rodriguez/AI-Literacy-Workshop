@@ -11,6 +11,8 @@ You may need to have Homebrew installed for easier installation of these. See th
 - [About copilot-cli](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli)
 - [OpenCode](https://opencode.ai/)
   - Open-source code editor for AI-assisted development (can add GitHub Copilot or GitLab Duo)
+- [Gitlab Duo with OpenCode](https://innerspace.stsci.edu/spaces/~drodriguez/pages/686995488/Setup+OpenCode+with+Gitlab-Duo)
+  - Setup instructions for using Gitlab Duo from OpenCode
 - [Cursor CLI](https://cursor.com/cli)
   - Command-line tool by Cursor
 

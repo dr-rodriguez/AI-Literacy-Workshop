@@ -5,4 +5,5 @@ Workshop-style brainstorming for AI ideas that could help MAST developers and en
 ## Tasks
 
 1. Review the brainstorming Mural from Session 1
+
 2. Add new ideas and chat about them

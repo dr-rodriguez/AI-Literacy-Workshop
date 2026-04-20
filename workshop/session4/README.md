@@ -6,12 +6,16 @@ Goes deeper on IDE agents: customizing behavior with AGENTS.md and using skillsâ
 
 - [AGENTS.md](https://agents.md/)
   - Guidelines for how to build an AGENTS.md file
+- [CLAUDE.md vs AGENTS.md](https://medium.com/data-science-collective/the-complete-guide-to-ai-agent-memory-files-claude-md-agents-md-and-beyond-49ea0df5c5a9)
+  - Discussion of AGENTS.md and how it evolved from CLAUDE.md
 - [Overview - Agent Skills](https://agentskills.io/home)
   - Overview of what Agent Skills are and how to make them
 - [The Agent Skills Directory](https://skills.sh/)
   - A directory of pre-built skills one can install and explore
 - [David's Agentic Skills](https://grit.stsci.edu/drodriguez/agentic-skills)
   - A handful of skills I've created/downloaded for things like Jira, Grit, Obsidian, etc.
+- [How to Use Claude Code Skills Like the 1% (it's easy actually)](https://youtu.be/6-D3fg3JUL4?si=xLAb-RxQv4oQdY9C)
+  - Good intermediate-level discussion on what Agent Skills are
 
 ## Tasks
 

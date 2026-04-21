@@ -8,17 +8,17 @@ Paste the following text to M365 Agent ``Describe`` window to create an agent fo
 Create an agent for Python code review.
 The agent should:
 
-Review Python package code for correctness, readability, maintainability, and performance
-Identify bugs, edge cases, and anti‑patterns
-Check adherence to Python best practices, including packaging standards, typing, testing, and documentation
-Provide actionable and constructive feedback suitable for internal team collaboration
-Assume the code is not beginner‑level and is intended for production or research‑grade use
+- Review Python package code for correctness, readability,maintainability, and performance
+- Identify bugs, edge cases, and anti‑patterns
+- Check adherence to Python best practices, including packaging standards, typing, testing, and documentation
+- Provide actionable and constructive feedback suitable for internal team collaboration
+- Assume the code is not beginner‑level and is intended for production or research‑grade use
 
 In addition, create suggested prompts that developers can use when interacting with the agent.
 ```
 
 ### Option 2:
-Paste the following text to M365 Agent ``Configure`` window to create an agent for Python code review.
+Paste the following markdowntext to M365 Agent ``Configure`` window to create an agent for Python code review.
 
 
 ```markdown
@@ -94,13 +94,13 @@ def calc(vals):
 - *Naming*: The function name `calc` is not descriptive; consider `calculate_average`.
 - *Best Practices*: Avoid using `sum` as a variable name to prevent shadowing the built-in function.
 - *Actionable Suggestion*:
+
   ```python
   def calculate_average(values: List[float]) -> float:
       if not values:
           raise ValueError("Input list is empty")
       return sum(values) / len(values)
   ```
-
 ## Closing
 End each review by inviting further questions or clarifications, and encourage iterative improvement of the codebase.
 

@@ -3,17 +3,24 @@ A workshop to go over basic use of AI tools
 
 # Requirements
 
+Required:
+- M365 Copilot
 - VSCode - https://code.visualstudio.com/ 
 - Github Account - https://github.com/ 
-- Github Copilot Chat Extension
-- Clone this repo to a folder on your machine
-- Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments (conda, mamba, uv).
+- Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments.
 
-### Optional Installs:
-- Homebrew (easier to install the CLI via Brew)
-  - Search Self-Service for Homebrew Self Install
-- Copilot CLI - https://github.com/features/copilot/cli
-- OpenCode - https://opencode.ai/
+Optional:
+- Sessions 1,6: Bring brainstorming ideas for what to build with AI for MAST
+- Session 2: Bring ideas for your custom agents. We already have some examples in Session 2 resources, but feel free to come up with your own ideas.
+- Sessions 3-5:
+  - Homebrew (easier to install the CLI via Brew)
+    - Search Self-Service for Homebrew Self Install
+  - Copilot CLI - https://github.com/features/copilot/cli
+  - OpenCode - https://opencode.ai/
+
+# Things to share
+- Your thoughts on what to build with AI (to be shared in Session 1 and reviewed in Session 6)
+- Your experience with the exercises in Session 2, 3, 4, and 5
 
 # Agenda 
 
@@ -34,14 +41,10 @@ A workshop to go over basic use of AI tools
 
 ## 10:30am - 11:30am: Session 2: Chatbots (1hr) - Jinmi
 - Chatbot Examples
-  - M365 Copilot, Github Copilot - image generation, text generation, etc
-  - Gitlab-Duo Web chatbot (private)
-  - Other examples
-- Good practices
-  - context prompting
-  - examples of bad or good prompts
-  - custom agents
-- Exercise Session
+- Good prompting practices
+- Create custom agents
+- Exercises
+- Sharing tips and experience with the exercises in Mural or in the session
 
 ## 11:30am - 11:35am: BREAK 2 (5-10 mins)
 

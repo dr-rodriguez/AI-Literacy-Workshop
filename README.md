@@ -10,7 +10,7 @@ Required:
 - Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments.
 
 Optional:
-- Sessions 1,6: Bring brainstorming ideas for what to build with AI for MAST
+- Brainstorming session 1,2: Bring brainstorming ideas for what to build with AI for MAST
 - Session 2: Bring ideas for your custom agents. We already have some examples in Session 2 resources, but feel free to come up with your own ideas.
 - Sessions 3-5:
   - Homebrew (easier to install the CLI via Brew)
@@ -19,7 +19,7 @@ Optional:
   - OpenCode - https://opencode.ai/
 
 # Things to share
-- Your thoughts on what to build with AI (to be shared in Session 1 and reviewed in Session 6)
+- Your thoughts on what to build with AI (to be shared in Brainstorm session 1 and reviewed in Brianstorm session 2)
 - Your experience with the exercises in Session 2, 3, 4, and 5
 
 # Agenda 
@@ -79,6 +79,6 @@ Optional:
 - OpenCode with Gitlab-Duo, Github-Copilot
 - Exercise Session
 
-## 3:10pm - 5:00pm: Session 6 (1 hour + break + another 1 hr) - All of Us
+## 3:10pm - 5:00pm: Brainstorm session 2 (1 hour + break + another 1 hr) - All of Us
 - Brainstorm AI application ideas for MAST
   - Review Mural ideas from start

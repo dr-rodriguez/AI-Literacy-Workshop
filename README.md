@@ -1,6 +1,11 @@
 # AI-Literacy-Workshop
 A workshop to go over basic use of AI tools
 
+# Goals
+Introduction and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
+
+The participants will be able to use VSCode or CLI options to generate code and edit files.They will also learn about custom configuration options and like agent files and skills for more advanced usage.
+
 # Requirements
 
 Required:
@@ -80,7 +85,7 @@ Optional:
 - OpenCode with Gitlab-Duo, Github-Copilot
 - Exercise Session
 
-## 3:10pm - 5:00pm: [Session 6](workshop/session6/README.md)
-Brainstorm and Wrap-up (1 hour + break + another 1 hr) - All of Us
+## 3:10pm - 5:00pm: [Session 6](workshop/session6/README.md): Brainstorm and Wrap-up
+1 hour + break + another 1 hr
 - Brainstorm AI application ideas for MAST
   - Review Mural ideas from start

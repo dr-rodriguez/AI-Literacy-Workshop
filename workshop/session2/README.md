@@ -24,7 +24,7 @@ Explores chatbot options (e.g., M365 Copilot, GitHub Copilot, GitLab Duo Web) an
 
 ## Tasks
 
-1. Try out the M365 Copilot with simple prompts for given scenarios. 
+1. Try out the M365 Copilot with a simple prompt for a given scenario. Copy it to the mural board. Feel free to be anonymous or share your name with the prompt.
 2. Try out the M365 Copilot with more complex prompts for given scenarios and compare the results with the simple prompts.
 3. Create a custom agent with the M365 Copilot. There are three options to choose from:
     - Create your own agent and a set of testing questions

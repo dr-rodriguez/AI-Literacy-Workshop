@@ -1,7 +1,8 @@
 # AI-Literacy-Workshop
 A workshop to go over basic use of AI tools
 
-![A workshop to go over basic use of AI tools](MAST_AI_Literacy_Workshop_poster.png)
+![A workshop to go over basic use of AI tools](MAST-AI-Literacy_day-poster.png)
+
 # Goals
 Introduction and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
 

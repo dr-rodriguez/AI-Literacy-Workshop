@@ -4,9 +4,9 @@ A workshop to go over basic use of AI tools
 ![A workshop to go over basic use of AI tools](MAST-AI-Literacy_day-poster.png)
 
 # Goals
-Introduction and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
+Introduction (Chatbots) and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
 
-The participants will be able to use VSCode or CLI options to generate code and edit files.They will also learn about custom configuration options and like agent files and skills for more advanced usage.
+The participants will be able to create a custom agent with M365 Copilot Chat and use VSCode or CLI options to generate code and edit files.They will also learn about custom configuration options and like agent files and skills for more advanced usage.
 
 Each session will be time allocated for participants to share their thoughts and experiences. The goal is to encourage discussion and sharing of ideas among participants.
 

@@ -12,24 +12,9 @@ Explores AI chatbot options and when to use private versus open or self-hosted m
 - Share tips and experience with the exercises in Mural 
 or in the session
 
-## Resources for session 2 exercises:
-- [MAST Query Helper.md](./MAST%20Query%20Helper.md)
-  - [SDSS 20 Queries.md](./SDSS%2020%20Queries.md)
-- [Python Code Review Expert.md](./Python%20Code%20Review%20Expert.md)
-  - [Bad_Python_Code.py](./Bad_Python_Code.py)
-
-## Useful Links
-### Flagship LLMs:
-- [M365 Copilot](https://m365.cloud.microsoft/chat)
-  - Microsoft's chatbot for M365
-- [ChatGPT](https://chat.openai.com/)
-  - OpenAI's chatbot
-
-### Open source LLMs:
-- [Top 10 best open source LLMs](https://huggingface.co/blog/daya-shankar/open-source-llms#quick-comparison-of-the-top-10-open-source-llm-models)
-- [The easiest way to build with open models](https://ollama.com/)
-
-
+## Tool to use
+- [M365 Copilot Chat](https://m365.cloud.microsoft/chat)
+  - Note that this is Microsoft's chatbot for STScI staff, but is only basic version of the full M365 Copilot capabilities.
 
 ## Tasks
 
@@ -39,4 +24,22 @@ or in the session
     - Create your own agent and a set of testing questions
     - Use the [MAST Query Helper.md](./MAST%20Query%20Helper.md) script to create a custom agent for the M365 Copilot and try out some of the SDSS 20 Queries with the custom agent.
     - Use the [Python Code Review Expert.md](./Python%20Code%20Review%20Expert.md) script to create a custom agent for the M365 Copilot and try out [Bad_Python_Code.py](./Bad_Python_Code.py) with the custom agent.
+
+
+## Resources for session 2 Task 3:
+- [MAST Query Helper.md](./MAST%20Query%20Helper.md)
+  - [SDSS 20 Queries.md](./SDSS%2020%20Queries.md)
+- [Python Code Review Expert.md](./Python%20Code%20Review%20Expert.md)
+  - [Bad_Python_Code.py](./Bad_Python_Code.py)
+
+## Other useful links
+### Good prompting practices:
+- [Best Practices for Prompting](inforgraphics/Best_Practices_for_Prompting.png)
+- [Prompting Cheat Sheet](inforgraphics/Prompting_Cheat_Sheet.png)
+
+### Open source LLMs:
+- [Top 10 best open source LLMs](https://huggingface.co/blog/daya-shankar/open-source-llms#quick-comparison-of-the-top-10-open-source-llm-models)
+- [The easiest way to build with open models](https://ollama.com/)
+
+
 

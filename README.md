@@ -2,6 +2,7 @@
 A workshop to go over basic use of AI tools
 
 ![A workshop to go over basic use of AI tools](MAST-AI-Literacy_day-poster.png)
+
 # Goals
 Introduction (Chatbots) and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
 

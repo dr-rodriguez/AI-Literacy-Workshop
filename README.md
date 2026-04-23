@@ -1,6 +1,14 @@
 # AI-Literacy-Workshop
 A workshop to go over basic use of AI tools
 
+![A workshop to go over basic use of AI tools](MAST_AI_Literacy_Workshop_poster.png)
+# Goals
+Introduction and intermediate level topics on using coding assistant agents in IDEs and CLIs. 
+
+The participants will be able to use VSCode or CLI options to generate code and edit files.They will also learn about custom configuration options and like agent files and skills for more advanced usage.
+
+Each session will be time allocated for participants to share their thoughts and experiences. The goal is to encourage discussion and sharing of ideas among participants.
+
 # Requirements
 
 Required:
@@ -11,7 +19,7 @@ Required:
 - Install this repo with either `pip install -r requirements.txt` or `uv sync` depending on how you handle your python environments.
 
 Optional:
-- Brainstorming session 1,2: Bring brainstorming ideas for what to build with AI for MAST
+- Brainstorming (brainstorm session 1, session 6): Bring brainstorming ideas for what to build with AI for MAST
 - Session 2: Bring ideas for your custom agents. We already have some examples in Session 2 resources, but feel free to come up with your own ideas.
 - Sessions 5:
   - Homebrew (easier to install the CLI via Brew)
@@ -80,7 +88,7 @@ Optional:
 - OpenCode with Gitlab-Duo, Github-Copilot
 - Exercise Session
 
-## 3:10pm - 5:00pm: [Session 6](workshop/session6/README.md)
-Brainstorm and Wrap-up (1 hour + break + another 1 hr) - All of Us
+## 3:10pm - 5:00pm: [Session 6](workshop/session6/README.md): Brainstorm and Wrap-up
+1 hour + break + another 1 hr
 - Brainstorm AI application ideas for MAST
   - Review Mural ideas from start

@@ -1,7 +1,16 @@
 # Session 2
 
-Explores chatbot options (e.g., M365 Copilot, GitHub Copilot, GitLab Duo Web) and when to use private versus open or self-hosted models. Covers practical prompting habits, custom agents, and hands-on exercises.
+Explores AI chatbot options and when to use private versus open or self-hosted models. Covers practical prompting habits, custom agents, and hands-on exercises.
 
+## Agenda
+- Chatbot Examples
+- Exercise task 1
+- Good prompting practices
+- Exercise task 2
+- Create custom agents
+- Exercise task 3
+- Share tips and experience with the exercises in Mural 
+or in the session
 
 ## Resources for session 2 exercises:
 - [MAST Query Helper.md](./MAST%20Query%20Helper.md)
@@ -28,6 +37,6 @@ Explores chatbot options (e.g., M365 Copilot, GitHub Copilot, GitLab Duo Web) an
 2. Try out the M365 Copilot with more complex prompts for given scenarios and compare the results with the simple prompts.
 3. Create a custom agent with the M365 Copilot. There are three options to choose from:
     - Create your own agent and a set of testing questions
-    - Use the MAST Query Helper.md script to create a custom agent for the M365 Copilot and try out some of the SDSS 20 Queries with the custom agent.
-    - Use the Python Code Review Expert.md script to create a custom agent for the M365 Copilot and try out (./bad_python_code.py) with the custom agent.
+    - Use the [MAST Query Helper.md](./MAST%20Query%20Helper.md) script to create a custom agent for the M365 Copilot and try out some of the SDSS 20 Queries with the custom agent.
+    - Use the [Python Code Review Expert.md](./Python%20Code%20Review%20Expert.md) script to create a custom agent for the M365 Copilot and try out [Bad_Python_Code.py](./Bad_Python_Code.py) with the custom agent.
 
